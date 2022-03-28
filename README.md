@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alperakkan
-- 👀 I’m interested in frontend web development 
-- 🌱 I’m currently learning javascript and releted frameworks
+- 👀 I’m working as Junior .NET Developer
+- 🌱 I’m interested in back-end part of web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
