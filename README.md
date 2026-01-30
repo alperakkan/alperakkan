@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alperakkan
-- 👀 I’m working as Junior .NET Developer
+- 👀 I’m working as Software Developer
 - 🌱 I’m interested in full stack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alprakkn@outlook.com...
